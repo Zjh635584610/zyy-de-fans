@@ -1,0 +1,15 @@
+lidar:
+  max_range_m: 4.0
+  angle_resolution_deg: 1.0
+preprocess:
+  ground_threshold_m: 0.05
+  voxel_size_m: 0.05
+  min_valid_distance_m: 0.01
+  neighbor_consistency_m: 0.35
+clustering:
+  method: "dbscan"
+  eps_m: 0.08
+  adaptive_gain: 0.03
+  min_points: 5
+bbox:
+  min_size_m: 0.10

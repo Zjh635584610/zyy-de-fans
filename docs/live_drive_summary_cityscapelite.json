@@ -1,0 +1,18 @@
+{
+  "frames": 24,
+  "avg_detected_objects": 16.083333333333332,
+  "warning_frames": 0,
+  "emergency_frames": 0,
+  "avg_processing_time_s": 0.010556712499995532,
+  "max_processing_time_s": 0.012538900000436115,
+  "avg_throttle": 0.0652431768968515,
+  "avg_target_speed": 0.34999999999999987,
+  "avg_measured_speed": 0.2796063554272978,
+  "scene": "CityscapeLite",
+  "initial_pose": [
+    0.0,
+    0.13024,
+    -1.5707963267948966
+  ],
+  "gui_enabled": true
+}

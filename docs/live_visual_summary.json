@@ -1,0 +1,12 @@
+{
+  "frames": 20,
+  "avg_detected_objects": 21.4,
+  "warning_frames": 0,
+  "emergency_frames": 0,
+  "avg_processing_time_s": 0.01321801999984018,
+  "max_processing_time_s": 0.0327145000010205,
+  "avg_throttle": 0.0,
+  "avg_target_speed": 0.0,
+  "avg_measured_speed": 0.0,
+  "gui_enabled": true
+}

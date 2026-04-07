@@ -1,0 +1,19 @@
+{
+  "route_mode": "recorded_vehicle_loop",
+  "route_points_source": "docs/route_seed_positions.json",
+  "loop_forever": true,
+  "notes": {
+    "start_progress_m": "沿录制路径累计长度的位置，单位米",
+    "reverse": "true 表示沿同一路径反向循环行驶",
+    "speed_mps": "沿路径前进的速度，单位米每秒"
+  },
+  "vehicles": [
+    {
+      "name": "same_lane_far",
+      "actor_number": 12,
+      "start_progress_m": 4.85,
+      "speed_mps": 0.26,
+      "reverse": false
+    }
+  ]
+}

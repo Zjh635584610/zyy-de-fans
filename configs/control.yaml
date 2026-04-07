@@ -1,0 +1,10 @@
+safety:
+  warning_distance_m: 0.9
+  emergency_brake_distance_m: 0.5
+  forward_corridor_half_width_m: 0.35
+control:
+  default_safe_speed_mps: 0.3
+  cruise_speed_mps: 0.35
+  kp: 0.8
+  ki: 0.25
+  max_throttle: 0.3
